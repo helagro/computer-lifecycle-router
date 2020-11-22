@@ -11,4 +11,3 @@ case $1/$2 in
     eval $routerPath" resume" 
    ;;
 esac
-echo "ran pause-script"
